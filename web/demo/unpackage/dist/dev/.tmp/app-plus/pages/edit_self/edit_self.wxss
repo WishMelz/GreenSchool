@@ -1,0 +1,46 @@
+
+.photo_top {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	height: 500rpx;
+}
+.photo_top .imageItem {
+	width: 66.6%;
+	height: 500rpx;
+}
+.photo_top .imageItem image {
+	height: 500rpx;
+}
+.photo_uplod {
+	width: 33.3%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.photo_uplod .imageUpload {
+	height: 250rpx;
+	font-size: 150rpx;
+}
+.content_tag {
+	width: 600rpx;
+}
+.cu-form-group picker::after {
+	content: "";
+}
+.cu-form-group picker .picker {
+	text-align: left
+}
+
