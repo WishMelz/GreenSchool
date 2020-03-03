@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"tag_icon { margin-top: ",[0,10],"; border: ",[0,1]," solid red; margin-right: ",[0,30],"; width: ",[0,40],"; height: ",[0,40],"; text-align: center; line-height: ",[0,40],"; font-weight: 700; border-radius: 100%; }\n.",[1],"check_title { width: ",[0,600],"; }\n",],undefined,{path:"./pages/self_tag_sports/self_tag_sports.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/self_tag_sports/self_tag_sports.wxml') } }));

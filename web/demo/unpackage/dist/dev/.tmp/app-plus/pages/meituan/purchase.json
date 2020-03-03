@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "创建订单",
-  "usingComponents": {
-    "cu-custom": "/colorui/components/cu-custom"
-  }
-}

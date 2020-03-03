@@ -1,7 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "cu-custom": "/colorui/components/cu-custom",
-    "sunui-upbasic": "/components/sunui-upimg-basic"
-  }
-}
